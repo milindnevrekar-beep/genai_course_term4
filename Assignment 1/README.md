@@ -46,9 +46,9 @@ The bonus cells run the same pipelines over both complete datasets.
 | | Rows | Notes |
 |---|---|---|
 | Part 1 | 30 | Topic matches the dataset's category for 83.3% of articles |
-| Part 2 | 25 | Skills found for 24, education stated for 11, experience stated for 13 |
+| Part 2 | 25 | Skills found for 24, education stated for 11, experience stated for 16 |
 | Bonus Part 1 | 2,225 | Topic matches the dataset's category for 82.6% (Business 85%, Entertainment 82%, Politics 98%, Sport 96%, Tech 47%) |
-| Bonus Part 2 | 2,277 | Skills found for 2,226 postings; education stated for 56%, experience for 72% |
+| Bonus Part 2 | 2,277 | Skills found for 2,212 postings; education stated for 59%, experience for 78% |
 
 ## How to run
 
